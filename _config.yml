@@ -74,7 +74,7 @@ ga_domain: terryliu18.github.io
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Machine learning engineer"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/TerryLiu18.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
