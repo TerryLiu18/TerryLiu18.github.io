@@ -1,1 +1,1 @@
-Hey，我是刘天瑞（a.k.a. Terry, _@terryliu18_
+Hey，我是刘天瑞 a.k.a. Terry, _@terryliu18_

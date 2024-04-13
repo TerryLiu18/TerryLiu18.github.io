@@ -13,8 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 金坷垃里的守望者
-zhihu_username: Terry
+zhihu_username: terryliu18
 github_username: Terryliu18
 twitter_username: PvntrTerry
 linkedin_username:  terryliu18
@@ -58,7 +57,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: terryliu18
 
 # Netease settings
 netease_comment: false
@@ -85,10 +84,9 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: True
 
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
   ]
