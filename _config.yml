@@ -13,9 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-zhihu_username: terryliu18
-github_username: Terryliu18
-twitter_username: PvntrTerry
+twitter_username: PvntrTerryLiu
 linkedin_username:  terryliu18
 
 # Build settings
@@ -89,4 +87,6 @@ page-mathjax: True
 # Friends
 friends:
   [
+    { title: "Xiaohai", href: "https://salemon.github.io/" },
+    { title: "Yubin", href: "https://nephritebin.github.io/" }
   ]
